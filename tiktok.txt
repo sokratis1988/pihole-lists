@@ -7,3 +7,4 @@ tiktokv.com
 (\.|^)api\.snapkit\.com$
 (\.|^)tik-tokapi\.com$
 tik-tokapi.com
+p77-sign-sg.tiktokcdn.com
