@@ -1,0 +1,9 @@
+tiktok.com
+tiktokcdn.com
+tiktokv.com
+(\.|^)tiktok\.com$
+(\.|^)tiktokcdn\.com$
+(\.|^)tiktokv\.com$
+(\.|^)api\.snapkit\.com$
+(\.|^)tik-tokapi\.com$
+tik-tokapi.com
