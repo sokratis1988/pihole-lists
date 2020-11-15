@@ -11,3 +11,4 @@ p77-sign-sg.tiktokcdn.com
 snapkit.com
 api.snapkit.com
 dm0-useast1a.tik-tokapi.com
+dyn-common-eur.tik-tokapi.com
